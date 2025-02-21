@@ -2,8 +2,8 @@ from tkinter import *
 import sqlite3
 from tkfontawesome import icon_to_image 
 
-#  i did not desine this app to work with hight-DPI but you can make it happen if you want hahaha ;)
-
+#  i did not desine this app to work with hight-DPI but you can make it happen if you want hahaha ;).
+# this is the code that can enable the high_DPI
 # import ctypes
 # # Enable high-DPI awareness
 # try:
