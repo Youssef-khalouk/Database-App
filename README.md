@@ -27,9 +27,9 @@ install this librarys by typing this commands in the tirminal to run this app wi
         pip install tkfontawesome
 
 if you get errors from installing tkfontawesome try one of those:
-   -> install pywin32 then install lxml then try installing tkfontawesome
-   -> use Anaconda to install tkfontawesome
-   -> try install pywin32 then install lxml then try installing tkfontawesome using python 3.9
+   * install pywin32 then install lxml then try installing tkfontawesome
+   * use Anaconda to install tkfontawesome
+   * try install pywin32 then install lxml then try installing tkfontawesome using python 3.9
 
 # Images
 ![Image](https://github.com/user-attachments/assets/437f0203-0274-46c4-8ea8-6a41303c4508)
