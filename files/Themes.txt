@@ -1,0 +1,120 @@
+[Defualt]
+color1 = #00dfdf
+color2 = #00cece
+color3 = #000082
+color4 = #000000
+color5 = #00b9b9
+color6 = #00ffff
+color7 = #00cece
+color8 = #003e3a
+color9 = #006f6f
+color10 = #009797
+
+[Red Mode]
+color1 = #3e1515
+color2 = #32100f
+color3 = white
+color4 = #85f88d
+color5 = #260606
+color6 = #9d0000
+color7 = #32100f
+color8 = #5757ED
+color9 = #9d0000
+color10 = #260606
+
+[Light Mode]
+color1 = #e6e6e6
+color2 = #ffffff
+color3 = #4d4d4d
+color4 = #1f4720
+color5 = #efefef
+color6 = #beafd1
+color7 = #ffffff
+color8 = #ff7171
+color9 = #6c4d86
+color10 = #beafd1
+
+[Blue Mode]
+color1 = #1515ff
+color2 = #0000ff
+color3 = #9a9a9a
+color4 = #ff0000
+color5 = #0000ca
+color6 = #006c00
+color7 = #0000ff
+color8 = #e8e800
+color9 = #00009b
+color10 = #0000b3
+
+[Green Mode]
+color1 = #00dfdf
+color2 = #00cece
+color3 = #000082
+color4 = #000000
+color5 = #00b9b9
+color6 = #00ffff
+color7 = #00cece
+color8 = #003e3a
+color9 = #006f6f
+color10 = #009797
+
+[Light Blue Mode]
+color1 = #9191ff
+color2 = #8080ff
+color3 = #00008c
+color4 = #1f4720
+color5 = #6f6fff
+color6 = #6666ff
+color7 = #8080ff
+color8 = #3333ff
+color9 = #4242ff
+color10 = #5b5bff
+
+[Darck Mode]
+color1 = #171717
+color2 = #0f0f0f
+color3 = #9a9a9a
+color4 = #008000
+color5 = #171717
+color6 = #292c45
+color7 = #0f0f0f
+color8 = #ff6c6c
+color9 = #000000
+color10 = #292929
+
+[Darck Mode_2]
+color1 = #0c0c0c
+color2 = #000000
+color3 = #434670
+color4 = #008000
+color5 = #0b0b0b
+color6 = #23010a
+color7 = #000000
+color8 = #7434eb
+color9 = #969696
+color10 = #1b1b1b
+
+[Rose Mode]
+color1 = #501d42
+color2 = #3d1632
+color3 = #ce6cf9
+color4 = #6770da
+color5 = #401a3a
+color6 = #63188f
+color7 = #3d1632
+color8 = #a40d6b
+color9 = #b01be9
+color10 = #6d0b73
+
+[White blue]
+color1 = #5959ff
+color2 = #7777ff
+color3 = #00006c
+color4 = #ff0000
+color5 = #6a6aff
+color6 = #6a6aff
+color7 = #7777ff
+color8 = #232358
+color9 = #2828ff
+color10 = #4a4aff
+
