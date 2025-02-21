@@ -31,7 +31,7 @@ if you get errors from installing tkfontawesome try one of those:
    * use Anaconda to install tkfontawesome
    * try install pywin32 then install lxml then try installing tkfontawesome using python 3.9
 
-when tkfontawesome works go to svgs.py file in tkfontawesome folder and copy the icons that is in svgs_icons.txt to svgs.py.
+when tkfontawesome works go to svgs.py file in tkfontawesome folder and copy the icons that is in svgs_icons.txt to svgs.py, or copy svgs.py in this repositorie and past it in the tkfontawesome folder.
 
 # Images
 ![Image](https://github.com/user-attachments/assets/437f0203-0274-46c4-8ea8-6a41303c4508)
