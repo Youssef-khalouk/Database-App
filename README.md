@@ -2,29 +2,29 @@
 Control Database App for SQL SERVER AND SQLITE, this app controls local database and server database using mysql and sqlite and tkinter frame work for GUI.
 
 # Requirements
-install this librarys to run this app.
+install this librarys by typing this commands in the tirminal to run this app without errors.
 
 * install mysql:
    ```bash
-        py install mysql
+        pip install mysql
 * install sqlite:
    ```bash
-        py install sqlite
+        pip install sqlite
 * install mysql.connector:
    ```bash
-        py install mysql.connector
+        pip install mysql.connector
 * install pywin32:
    ```bash
-        py install pywin32
+        pip install pywin32
 * install configparser:
    ```bash
-        py install configparser
+        pip install configparser
 * install pillow:
    ```bash
-        py install pillow
+        pip install pillow
 * install tkfontawesome:
    ```bash
-        py install tkfontawesome
+        pip install tkfontawesome
 
 # Images
 ![Image](https://github.com/user-attachments/assets/437f0203-0274-46c4-8ea8-6a41303c4508)
