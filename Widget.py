@@ -2,8 +2,9 @@ from tkinter import *
 import sqlite3
 from tkfontawesome import icon_to_image 
 
-# import ctypes
+#  i did not desine this app to work with hight-DPI but you can make it happen if you want hahaha ;)
 
+# import ctypes
 # # Enable high-DPI awareness
 # try:
 #     ctypes.windll.shcore.SetProcessDpiAwareness(1)
